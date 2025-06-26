@@ -2,10 +2,10 @@
 
 ## 📚 Table of Contents
 
-- [🏆 Hackathon Win](#hackathon-win)
-- [🌾 Agricultural Emissions in India](#agricultural-emissions-in-india)
-- [🌍 Global Emissions Insights](#global-emissions-insights)
-- [💡 Reduction Strategies](#reduction-strategies)
+- [🏆 Hackathon Win](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-hackathon-win)
+- [🌾 Agricultural Emissions in India](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-agricultural-emissions-in-india)
+- [🌍 Global Emissions Insights](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-global-emissions-insights)
+- [💡 Reduction Strategies]([#reduction-strategies](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-reduction-strategies))
 
 ---
 
