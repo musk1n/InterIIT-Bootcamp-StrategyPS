@@ -5,7 +5,7 @@
 - [🏆 Hackathon Win](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-hackathon-win)
 - [🌾 Agricultural Emissions in India](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-agricultural-emissions-in-india)
 - [🌍 Global Emissions Insights](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-global-emissions-insights)
-- [💡 Reduction Strategies]([#reduction-strategies](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-reduction-strategies))
+- [💡 Reduction Strategies](https://github.com/musk1n/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-reduction-strategies)
 
 ---
 
